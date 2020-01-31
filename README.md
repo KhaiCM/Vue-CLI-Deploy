@@ -2,5 +2,5 @@
 
 ## Deploy code study vue cli count down github
 
-## Link: [vue_cli_count_down](https://khaicm.github.io/)
+## Link: [khaiCM.github.io](https://khaicm.github.io/)
 
